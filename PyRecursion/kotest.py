@@ -1,5 +1,5 @@
 '''
-recurse test
+recurse test - updated on 2/15/2012
 '''
 class Graph(object):
     """
@@ -98,7 +98,6 @@ if __name__ ==  "__main__":
     print rlist    
     print '>>>> done <<<<'
 
-
     # Node list
     #vlist = g.v()	
     #rdict ={}	
@@ -115,7 +114,3 @@ if __name__ ==  "__main__":
             
     #print '>>>> results : %s' %rdict                        
     #print res
-
-
-
-
